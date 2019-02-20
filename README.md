@@ -11,5 +11,5 @@
 ## 3. Link to git repository
 ## 4. First push on master branch
 ## 5. Inti git flow
-
-
+## 6. Create development & test database
+`rails db:create`
